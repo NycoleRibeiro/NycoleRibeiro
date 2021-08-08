@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nycole</h1>
 <h3 align="center">I'm currently attending the 5th semester in Information Systems at the Federal University of Rio Grande and in my free time practicing my hobbies of photography, music and producing videos for youtube.</h3>
 
-- 👨‍💻 I’m currently working on [The Clock website](https://github.com/NycoleRibeiro/TheClock)
-
 - 📝 Check out my [CV web](https://nycoleribeiro.github.io/CurriculoWeb/)
 
 <h3 align="center">Connect with me:</h3>
