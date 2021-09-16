@@ -2,6 +2,8 @@
 <h3 align="center">I'm currently attending the 5th semester in Information Systems at the Federal University of Rio Grande and in my free time practicing my hobbies of photography, music and producing videos for youtube.</h3>
 
 - 📝 Check out my [CV web](https://nycoleribeiro.github.io/CurriculoWeb/)
+- ✅ Currently working on the project [Health Plan Sys](https://github.com/NycoleRibeiro/Sistema-de-plano-de-saude)
+- 🕒 In the process of learning MySQL, PHP and JavaScript
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -30,12 +32,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
+  <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/> 
+  </a> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>   
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nycoleribeiro&show_icons=true&locale=en&layout=compact" alt="nycoleribeiro" /></p>
