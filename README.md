@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nycole</h1>
-<h3 align="center">I'm currently attending the 5th semester of Information Systems at the Federal University of Rio Grande and in my free time practicing my hobbies of photography, music and producing videos for youtube.</h3>
+<h3 align="center">I'm currently attending the 6th semester of Information Systems at the Federal University of Rio Grande and in my free time practicing my hobbies of photography, music and producing videos for youtube.</h3>
 
 - 📝 Check out my [CV web](https://nycoleribeiro.github.io/CurriculoWeb/)
 - ✅ Currently working on the project [Health Plan Sys](https://github.com/NycoleRibeiro/Sistema-de-plano-de-saude)
