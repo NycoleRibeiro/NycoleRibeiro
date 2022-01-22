@@ -2,7 +2,7 @@
 <h3 align="center">I'm currently attending the 6th semester of Information Systems at the Federal University of Rio Grande and in my free time practicing my hobbies of photography, music and producing videos for youtube.</h3>
 
 - 📝 Check out my [CV web](https://nycoleribeiro.github.io/CurriculoWeb/)
-- ✅ Currently working on the project [Health Plan Sys](https://github.com/NycoleRibeiro/Sistema-de-plano-de-saude)
+- ✅ Currently working on the project [Sistema de Controle de Estoque](https://github.com/NycoleRibeiro/Sistema-Controle-de-Estoque)
 - 🕒 In the process of learning MySQL, PHP and JavaScript
 
 <h3 align="center">Connect with me:</h3>
