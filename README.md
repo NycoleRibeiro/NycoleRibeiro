@@ -2,8 +2,8 @@
 <h3 align="center">I'm currently attending the 7th semester of Information Systems at the Federal University of Rio Grande. Also, always looking for more knowledge in front-end development and design.</h3>
 
 - 📝 Check out my [CV web](https://nycoleribeiro.github.io/CurriculoWeb/)
-- ✅ Currently working on the project [Currículo Web](https://nycoleribeiro.github.io/CurriculoWeb/)
-- 🕒 In the process of learning JavaScript, React and Graphic Design
+- ✅ Currently working on the project [Linker App](https://github.com/NycoleRibeiro/linker-frontend)
+- 🕒 Currently studying JavaScript, React Native and UX Design
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
