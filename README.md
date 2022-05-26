@@ -32,6 +32,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
+  <a href="https://reactnative.dev/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react native" width="45" height="40"/> 
+  </a> 
   <a href="https://www.php.net/" target="_blank"> 
     <img src="https://miro.medium.com/max/1184/1*JGkOiiDXtsuXgq4koo5uJw.png" alt="PHP" width="60" height="40"/> 
   </a> 
