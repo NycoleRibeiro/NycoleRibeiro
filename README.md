@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Check out my CV Web<br>📚 Currently studying JavaScript, React Native and UX Design<br>🎯 Working on the project Linker App</p>
+<p align="left">
+  ✨ Check out my <a href="https://nycoleribeiro.github.io/CurriculoWeb/"> CV Web </a>
+  <br>📚 Currently studying JavaScript, React Native and UX Design
+  <br>🎯 Working on the project <a href="https://github.com/NycoleRibeiro/linker-frontend"> Linker App </a>
+</p>
 
 ###
 
