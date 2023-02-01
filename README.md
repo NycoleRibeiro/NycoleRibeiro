@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm currently attending the 8th semester of Information Systems at the Federal University of Rio Grande. Also, always looking for more knowledge in front-end development and UI design.</p>
+<p align="left">I am currently studying the 8th semester in Information Systems at the Federal University of Rio Grande. Passionate about creating intuitive, innovative and effective solutions to improve the user experience, combining aesthetics with functionality. I always seek to improve my skills by relating theory to practice.</p>
 
 ###
 
@@ -11,8 +11,7 @@
 ###
 
 <p align="left">
-  ✨ Check out my <a href="https://nycoleribeiro.github.io/CurriculoWeb/"> CV Web </a>
-  <br>📚 Currently studying JavaScript, React Native and UX Design
+  📚 Currently studying React and UX Design
   <br>🎯 Working on the project <a href="https://github.com/NycoleRibeiro/linker-frontend"> Linker App </a>
 </p>
 
