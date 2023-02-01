@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm currently attending the 7th semester of Information Systems at the Federal University of Rio Grande. Also, always looking for more knowledge in front-end development and design.</p>
+<p align="left">I'm currently attending the 8th semester of Information Systems at the Federal University of Rio Grande. Also, always looking for more knowledge in front-end development and UI design.</p>
 
 ###
 
