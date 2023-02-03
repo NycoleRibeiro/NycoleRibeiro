@@ -12,7 +12,7 @@
 
 <p align="left">
   📚 Currently studying React and UX Design
-  <br>🎯 Working on the project <a href="https://github.com/NycoleRibeiro/linker-frontend"> Linker App </a>
+  <br>🎯 Working on the project <a href="https://github.com/NycoleRibeiro/CurriculumWebApp"> Curriculum Web App </a>
 </p>
 
 ###
