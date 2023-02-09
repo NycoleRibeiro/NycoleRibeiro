@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-  📚 Currently studying React and UX Design
+  📚 Currently studying React, Typescript and UX Design
   <br>🎯 Working on the project <a href="https://github.com/NycoleRibeiro/CurriculumWebApp"> Curriculum Web App </a>
 </p>
 
