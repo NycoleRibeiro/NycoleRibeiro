@@ -1,19 +1,7 @@
-<h1 align="left">Hi there! I'm Nycole</h1>
+<h2 align="left">Sobre mim</h2>
 
-###
-
-<p align="left">I am currently studying the 8th semester in Information Systems at the Federal University of Rio Grande. Passionate about creating intuitive, innovative and effective solutions to improve the user experience, combining aesthetics with functionality. I always seek to improve my skills by relating theory to practice.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-  📚 Currently studying React, Typescript and UX Design
-  <br>🎯 Working on the project <a href="https://github.com/NycoleRibeiro/CurriculumWebApp"> Curriculum Web App </a>
-</p>
+<p align="left">Me chamo Nycole e estou cursando o 8º semestre em Sistemas de informação na Universidade Federal de Rio Grande. Apaixonada por criar soluções intuitivas, inovadoras e eficazes para melhorar a experiência do usuário, combinando estética com funcionalidade. Busco sempre aprimorar minhas habilidades relacionando teoria com a prática. </p>
+📚 Atualmente estudando React, Typescript and UX Design
 
 ###
 
@@ -31,6 +19,21 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="left">Projetos em andamento</h2>
+
+###
+
+<p align="left">
+  • <a href="https://github.com/NycoleRibeiro/CurriculumWebApp"> Curriculum Web App </a>
+  <br>Aplicativo Web para Criação de Curículos<br>
+
+  • <a href="https://github.com/NycoleRibeiro/curriculum-web-nycole"> Currículo Web Nycole Ribeiro </a>
+  <br>Meu currículo web utilizando vite + react + sass<br>
+</p>
+
 
 ###
 
