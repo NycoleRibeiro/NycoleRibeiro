@@ -30,8 +30,8 @@
   • <a href="https://github.com/NycoleRibeiro/CurriculumWebApp"> Curriculum Web App </a>
   <br>Aplicativo Web para Criação de Curículos<br>
 
-  • <a href="https://github.com/NycoleRibeiro/curriculum-web-nycole"> Currículo Web Nycole Ribeiro </a>
-  <br>Meu currículo web utilizando vite + react + sass<br>
+  • <a href="https://github.com/NycoleRibeiro/financial-system"> Sistema Financeiro </a>
+  <br>Sistema para organização de finanças feito em React e TypeScript<br>
 </p>
 
 
