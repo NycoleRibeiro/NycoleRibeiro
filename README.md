@@ -27,11 +27,8 @@
 ###
 
 <p align="left">
-  • <a href="https://github.com/NycoleRibeiro/CurriculumWebApp"> Curriculum Web App </a>
-  <br>Aplicativo Web para Criação de Curículos<br>
-
-  • <a href="https://github.com/NycoleRibeiro/financial-system"> Sistema Financeiro </a>
-  <br>Sistema para organização de finanças feito em React e TypeScript<br>
+  • <a href="https://github.com/NycoleRibeiro/TANOS"> TANOS </a>
+  <br>Aplicativo Web para Gerenciamento de Prestação de Serviços<br>
 </p>
 
 
