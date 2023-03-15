@@ -1,6 +1,6 @@
 <h2 align="left">Sobre mim</h2>
 
-<p align="left">No momento estou cursando o 8º semestre em Sistemas de informação na Universidade Federal de Rio Grande. Apaixonada por criar soluções intuitivas, inovadoras e eficazes para melhorar a experiência do usuário, combinando estética com funcionalidade. Busco sempre aprimorar minhas habilidades relacionando teoria com a prática. </p>
+<p align="left">No momento estou cursando o último ano em Sistemas de informação na Universidade Federal de Rio Grande. Sou apaixonada por criar soluções intuitivas, inovadoras e eficazes para melhorar a experiência do usuário, combinando estética com funcionalidade. Busco sempre aprimorar minhas habilidades e aprender novas tecnologias. </p>
 📚 Atualmente estudando React, Typescript and UX Design
 
 ###
