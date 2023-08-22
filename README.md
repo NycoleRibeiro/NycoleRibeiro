@@ -52,6 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" width="52" alt="photoshop logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" height="40" width="52" alt="notion logo"  />
 </div>
 
 ###
@@ -65,3 +66,9 @@
 </div>
 
 ###
+
+<h2 align="left">Estudando</h2>
+
+###
+
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64e49790b128dce3cb628823?variant=dark" alt="roadmap.sh"/></a>
