@@ -64,7 +64,7 @@
 <div align="left">
   <table>
     <tr>
-      <td><a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64e49790b128dce3cb628823?variant=dark&roadmaps=react%2Cux-design%2Cdesign-system" alt="roadmap.sh" /></a></td>
+      <td><a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64e49790b128dce3cb628823?variant=dark" alt="roadmap.sh"/></a></td>
       <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=true&username=nycoleribeiro" height="150" alt="languages graph" /></td>
     </tr>
   </table>
