@@ -1,6 +1,6 @@
 <h2 align="left">Sobre mim</h2>
 
-<p align="left"> Apaixonada por criar soluções intuitivas, inovadoras e eficazes para melhorar a experiência do usuário, combinando estética com funcionalidade. Busco sempre aprimorar minhas habilidades e aprender novas tecnologias. </p>
+<p align="left"> Apaixonada por criar soluções intuitivas, inovadoras e eficazes para aprimorar a experiência do usuário, combinando estética com funcionalidade. Estou constantemente em busca de aprimorar minhas habilidades e explorar novas tecnologias para oferecer o melhor em meus projetos. </p>
 
 ###
 
@@ -44,12 +44,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" width="52" alt="github logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" width="52" alt="photoshop logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" height="40" width="52" alt="notion logo"  />
